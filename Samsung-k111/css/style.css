@@ -1,0 +1,30 @@
+.navbar {
+    background-color: white !important;
+}
+
+.nav-link {
+    color: black !important;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.nav-link:hover {
+    background-color: black;
+    color: white !important;
+    border-radius: 20px;
+}
+
+.btn-samsung {
+    border: none;
+    background-color: white;
+    font-weight: 500;
+    font-size: 14px;
+    margin-right: 16px;
+}
+
+.btn-samsung:hover {
+    background-color: black;
+    color: white !important;
+    border-radius: 14px;
+    padding: 5px;
+}
